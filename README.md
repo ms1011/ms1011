@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms1011)](https://github.com/ms1011/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ms1011)](https://solved.ac/ms1011)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devtable)](https://github.com/devtable/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devtable)](https://velog.io/@devtable)
