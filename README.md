@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/java-FF3670?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-00e600?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms1011)](https://github.com/ms1011/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
+[![](https://github-readme-stats.vercel.app/api?username=ms1011)] &nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ms1011)](https://solved.ac/ms1011)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=devtable)](https://velog.io/@devtable)
